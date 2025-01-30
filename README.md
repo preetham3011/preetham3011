@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Preetham 👋
 
-<!--
-**preetham3011/preetham3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Computer Science student passionate about exploring and creating new things in tech. I love diving into web development, building projects, and learning new technologies. Always open to fresh ideas and discussions about tech and innovation!
 
-Here are some ideas to get you started:
+## Projects
+- **Weather Application** - Stay updated with real-time weather information
+- **Online Meeting Scheduler** - Making it easier to coordinate meetings
+- **Binary Tree Visualizer** - Interactive visualization of binary tree data structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+🌱 Growing my skills in web development and exploring new technologies  
+💡 Always excited to collaborate and learn from others
+
+## Let's Connect!
+Feel free to reach out for collaborations or tech discussions!
